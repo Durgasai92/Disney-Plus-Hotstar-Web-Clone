@@ -1,6 +1,6 @@
 ## DISNEY+ HOTSTAR WEB CLONE
 
-<a href="https://github.com/Durgasai92/Logo-Design-Web-Page.git" target="_blank"><br>
+<a href="https:https://github.com/Durgasai92/Disney-Plus-Hotstar-Web-Clone.git"><br>
 🚀**Visit Now** 🚀</a>
 
 
